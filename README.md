@@ -20,13 +20,14 @@ A Machine Learning web application that predicts Iris flower species using a Dec
 
 ## Project Structure
 
-```
 iris-flower-classifier/
-│── Iris_Flower_Classification.ipynb
-│── iris_model.pkl
-│── requirements.txt
-│── README.md
-```
+│
+├── app.py
+├── train_model.py
+├── iris_model.pkl
+├── requirements.txt
+├── README.md
+└── screenshots/
 
 ## Accuracy
 
